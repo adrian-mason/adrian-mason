@@ -42,10 +42,10 @@ I keep a digital garden at **[overtone-aql.pages.dev](https://overtone-aql.pages
 
 ---
 
-### Elsewhere
+### Projects
 
-[overtone-aql.pages.dev](https://overtone-aql.pages.dev) · [X / @adrianbmason](https://x.com/adrianbmason) · [Instagram](https://www.instagram.com/adrian.bmason/) · [Gmail](mailto:adrian.b.mason@gmail.com)
+[![Overtone](https://github-readme-stats.vercel.app/api/pin/?username=adrian-mason&repo=overtone&theme=graywhite&hide_border=true&title_color=444444&text_color=777777&icon_color=9E9E9E)](https://github.com/adrian-mason/overtone)
 
 ---
 
-<sub>Hand-crafted. Slowly.</sub>
+<sub>Hand-crafted. Slowly. &nbsp;·&nbsp; ![GitHub joined](https://img.shields.io/badge/GitHub-since%20Feb%202026-9E9E9E?style=flat&logo=github&logoColor=9E9E9E&labelColor=f5f5f5)</sub>
