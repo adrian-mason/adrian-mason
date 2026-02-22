@@ -44,8 +44,7 @@ I keep a digital garden at **[overtone-aql.pages.dev](https://overtone-aql.pages
 
 ### Elsewhere
 
-[overtone-aql.pages.dev](https://overtone-aql.pages.dev) · [X / @adrianbmason](https://x.com/adrianbmason) · [Instagram](https://www.instagram.com/adrian.bmason/)  
-`adrian.b.mason@gmail.com`
+[overtone-aql.pages.dev](https://overtone-aql.pages.dev) · [X / @adrianbmason](https://x.com/adrianbmason) · [Instagram](https://www.instagram.com/adrian.bmason/) · [Gmail](mailto:adrian.b.mason@gmail.com)
 
 ---
 
