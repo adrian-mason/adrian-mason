@@ -42,6 +42,16 @@ I keep a digital garden at **[overtone-aql.pages.dev](https://overtone-aql.pages
 
 ---
 
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrian-mason/adrian-mason/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrian-mason/adrian-mason/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/adrian-mason/adrian-mason/output/snake.svg" />
+</picture>
+
+---
+
 ### Projects
 
 [![Overtone](https://github-readme-stats.vercel.app/api/pin/?username=adrian-mason&repo=overtone&theme=graywhite&hide_border=true&title_color=444444&text_color=777777&icon_color=9E9E9E)](https://github.com/adrian-mason/overtone)
