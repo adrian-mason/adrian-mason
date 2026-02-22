@@ -58,4 +58,4 @@ I keep a digital garden at **[overtone-aql.pages.dev](https://overtone-aql.pages
 
 ---
 
-<sub>Hand-crafted. Slowly. &nbsp;·&nbsp; ![GitHub joined](https://img.shields.io/badge/GitHub-since%20Feb%202026-9E9E9E?style=flat&logo=github&logoColor=9E9E9E&labelColor=f5f5f5)</sub>
+<sub>Hand-crafted. Slowly.</sub>
